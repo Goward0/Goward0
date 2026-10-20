@@ -4,7 +4,6 @@ Software Engineer interested in backend systems, scalable APIs, and software arc
 
 🎓 BSc (Hons) Computing Science 2:1 – University of East Anglia  
 📅 Graduated 2025  
-💻 Currently seeking a Software Engineer / Graduate Software Developer role.
 
 ---
 
